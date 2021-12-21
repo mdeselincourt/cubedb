@@ -176,77 +176,77 @@ Emeria Shepherd,Land plays,Payoff
 Emeria Shepherd,Your yard,Payoff
 Endless,All yards,Participant
 Endless,All yards,Payoff
-End-Raze,ETB,Participant
-Enigma,Rogues,Both
-Enigma,ETB,Participant
-Etherium,Artifacts,Payoff
+End-Raze Forerunners,ETB,Participant
+Enigma Thief,Rogues,Both
+Enigma Thief,ETB,Participant
+Etherium Sculptor,Artifacts,Payoff
 Evolution Charm,Land plays,Participant
 Evolution Charm,Magecraft,Participant
 Evolution Charm,Own yard,Payoff
 Expedite,Card draw,Participant
 Expedite,Magecraft,Participant
-Experimental,Land plays,Participant
-Extract,All yards,Both
-Extract,Magecraft,Participant
+Experimental Frenzy,Land plays,Participant
+Extract from Darkness,All yards,Both
+Extract from Darkness,Magecraft,Participant
 "Ezuri, Renegade Leader",Elves,Both
 "Ezuri, Renegade Leader",Warriors,Participant
 Ezuri's Archers,Elves,Participant
-Fact,Your yard,Participant
-Fact,Magecraft,Participant
+Fact or Fiction,Your yard,Participant
+Fact or Fiction,Magecraft,Participant
 Faerie Mechanist,Artifacts,Payoff
 Faerie Vandal,Counters,Participant
 Faerie Vandal,Rogues,Participant
 Faerie Vandal,Card draw,Payoff
 Faithless,Card draw,Participant
-Faithless,Your yard,Participant
-Faithless,Magecraft,Participant
+Faithless Looting,Your yard,Participant
+Faithless Looting,Magecraft,Participant
 Falkenrath Noble,Lifegain,Participant
 Falkenrath Noble,Player damage,Participant
 Far Wanderings,Land plays,Participant
 Far Wanderings,Your yard,Participant
 Far Wanderings,Magecraft,Participant
-Fated,Your yard,Participant
-Fated,Magecraft,Participant
+Fated Return,Your yard,Participant
+Fated Return,Magecraft,Participant
 Feral Maaka,Vanilla,Participant
 Fertilid,Counters,Participant
 Fertilid,Land plays,Participant
 Fervent Champion,Equipment,Both
 Fervent Champion,Knights,Payoff
-Fiend,Removal,Participant
+Fiend Hunter,Removal,Participant
 Filigree Familiar,Artifacts,Participant
 Filigree Familiar,Card draw,Participant
 Filigree Familiar,Lifegain,Participant
 Filigree Familiar,ETB,Participant
 Filigree Familiar,Sacrifice,Payoff
-Final,Removal,Participant
-Final,Sacrifice,Participant
-Final,Magecraft,Participant
+Final Payment,Removal,Participant
+Final Payment,Sacrifice,Participant
+Final Payment,Magecraft,Participant
 Fire Prophecy,Card draw,Participant
 Fire Prophecy,Magecraft,Participant
 Fireblade Artist,Sacrifice,Both
 Fireblade Charger,Equipment,Payoff
 Fireblade Charger,Sacrifice,Payoff
 Fireblade Charger,Warriors,Participant
-Footfall,Card draw,Participant
+Footfall Crater,Card draw,Participant
 Forbidden Alchemy,Payoff,Participant
 Forbidden Alchemy,Magecraft,Participant
 Forbidding Spirit,ETB,Participant
-Foundry,Artifacts,Participant
-Frenzied,Counters,Participant
-Frillscare,Menace,Both
-Frillscare,Counters,Participant
-Frillscare,Nonhumans,Participant
-Frillscare,Warriors,Participant
-Frogtosser,Rogues,Both
-Galvanic,Magecraft,Participant
-Galvanic,Artifacts,Payoff
-Gather,Humans,Participant
-Gather,Magecraft,Participant
+Foundry of the Consuls,Artifacts,Participant
+Frenzied Arynx,Counters,Participant
+Frillscare Mentor,Menace,Both
+Frillscare Mentor,Counters,Participant
+Frillscare Mentor,Nonhumans,Participant
+Frillscare Mentor,Warriors,Participant
+Frogtosser Banneret,Rogues,Both
+Galvanic Blast,Magecraft,Participant
+Galvanic Blast,Artifacts,Payoff
+Gather the Townsfolk,Humans,Participant
+Gather the Townsfolk,Magecraft,Participant
 Geist of Saint Traft,Flying,Participant
-Geode,Land plays,Payoff
-Ghirapur,Artifacts,Participant
-Ghirapur,ETB,Participant
-Ghirapur,Humans,Participant
+Geode Rager,Land plays,Payoff
+Ghirapur Gearcrafter,Artifacts,Participant
+Ghirapur Gearcrafter,ETB,Participant
+Ghirapur Gearcrafter,Humans,Participant
 Ghoulraiser,Zombies,Both
 Ghoulraiser,ETB,Participant
 Ghoulraiser,Own yard,Participant
@@ -254,8 +254,8 @@ Gift of Strength,Magecraft,Participant
 Gird for Battle,Magecraft,Participant
 Gird for Battle,Counters,Participant
 Glass of the Guildpact,Artifacts,Participant
-Gluttonous,Counters,Participant
-Gluttonous,Menace,Participant
+Gluttonous Slug,Counters,Participant
+Gluttonous Slug,Menace,Participant
 Go for Blood,Card draw,Participant
 Go for Blood,Magecraft,Participant
 Goblin Banneret,Aggro,Participant
@@ -266,15 +266,15 @@ Goblin Welder,Own yard,Payoff
 Goblin Wizardry,Magecraft,Both
 Goblin Wizardry,Wide,Participant
 Godless Shrine,Is a land,Participant
-Goldnight,Lifegain,Participant
-Goldnight,Wide,Payoff
-Granitic,Card draw,Participant
-Granitic,Menace,Participant
-Grapple,Own yard,Both
-Grapple,Magecraft,Participant
+Goldnight Redeemer,Lifegain,Participant
+Goldnight Redeemer,Wide,Payoff
+Granitic Titan,Card draw,Participant
+Granitic Titan,Menace,Participant
+Grapple with the Past,Own yard,Both
+Grapple with the Past,Magecraft,Participant
 Gravecrawler,Zombies,Both
 Gravecrawler,Graveyard,Payoff
-Gravel-Hide,Pump,Participant
+Gravel-Hide Goblin,Pump,Participant
 Great Furnace,Artifacts,Participant
 Gruul Guildgate,Is a land,Participant
 Gruul Locket,Artifacts,Participant
@@ -282,17 +282,17 @@ Gruul Locket,Card draw,Participant
 Gruul Turf,Land plays,Participant
 Gryff Vanguard,Card draw,Participant
 Gryff Vanguard,Humans,Participant
-Harvester,Card draw,Participant
-Havengul,Zombies,Both
-Havengul,Your yard,Participant
-Heirloom,Artifacts,Participant
+Harvester of Souls,Card draw,Participant
+Havengul Runebinder,Zombies,Both
+Havengul Runebinder,Your yard,Participant
+Heirloom Blade,Artifacts,Participant
 Hoard Robber,Treasure,Participant
 Hoard Robber,Rogues,Participant
 Hoard Robber,Player damage,Payoff
 Hour of Revelation,Sweeper,Participant
 Hour of Revelation,Magecraft,Participant
-Human,Conditional removal,Participant
-Human,Magecraft,Participant
+Human Frailty,Conditional removal,Participant
+Human Frailty,Magecraft,Participant
 Hunger of the Howlpack,Counters,Participant
 Hunger of the Howlpack,Magecraft,Participant
 Hypothesizzle,Card draw,Participant
@@ -300,34 +300,34 @@ Hypothesizzle,Magecraft,Participant
 Ichor Wellspring,Artifacts,Participant
 Ichor Wellspring,Card draw,Participant
 Ichor Wellspring,ETB,Participant
-Ill-Gotten,Lifegain,Participant
-Ill-Gotten,Player damage,Participant
-Ill-Gotten,Sacrifice,Participant
-Impassioned,Humans,Participant
-Impassioned,Clerics,Participant
-Impassioned,Lifegain,Participant
-In Garruk's,Removal,Participant
-In Garruk's,Magecraft,Participant
-Increasing,Humans,Participant
-Increasing,Wide,Participant
-Increasing,Your yard,Participant
-Increasing,Magecraft,Participant
-Inventor's,Artifacts,Participant
-Inventor's,Artificiers,Participant
+Ill-Gotten Inheritance,Lifegain,Participant
+Ill-Gotten Inheritance,Player damage,Participant
+Ill-Gotten Inheritance,Sacrifice,Participant
+Impassioned Orator,Humans,Participant
+Impassioned Orator,Clerics,Participant
+Impassioned Orator,Lifegain,Participant
+In Garruk's Wake,Removal,Participant
+In Garruk's Wake,Magecraft,Participant
+Increasing Devotion,Humans,Participant
+Increasing Devotion,Wide,Participant
+Increasing Devotion,Your yard,Participant
+Increasing Devotion,Magecraft,Participant
+Inventor's Goggles,Artifacts,Participant
+Inventor's Goggles,Artificiers,Participant
 Invisible Stalker,Player damage,Participant
-Ironroot,Wide,Participant
-Ivy,Counters,Participant
-Ivy,Devotion,Participant
-Ivy,Elves,Participant
-Ivy,Wide,Payoff
-Ivy,Warriors,Participant
-Jagged,Elves,Both
+Ironroot Warlord,Wide,Participant
+Ivy Lane Denizen,Counters,Participant
+Ivy Lane Denizen,Devotion,Participant
+Ivy Lane Denizen,Elves,Participant
+Ivy Lane Denizen,Wide,Payoff
+Ivy Lane Denizen,Warriors,Participant
+Jagged-Scar Archers,Elves,Both
 Jungle Shrine,Is a land,Participant
 Jwar Isle Refuge,Lifegain,Participant
 Jwar Isle Refuge,ETB,Participant
-Keeper,Card draw,Participant
-Keeper,Nonhuman,Payoff
-Khalni,Land plays,Both
+Keeper of Fables,Card draw,Participant
+Keeper of Fables,Nonhuman,Payoff
+Khalni Heart Expedition,Land plays,Both
 Kodama's Reach,Land plays,Participant
 Kodama's Reach,Magecraft,Participant
 Kor Cartographer,ETB,Participant
@@ -337,10 +337,10 @@ Krosan Tusker,Land plays,Participant
 Krosan Verge,Is a land,Participant
 Lambholt Pacifist,Humans,Participant
 Landscaper Colos,Card draw,Participant
-Leaf,Dork,Participant
-Leaf,Elves,Participant
-Light,Player damage,Participant
-Light,Magecraft,Participant
+Leaf Gilder,Dork,Participant
+Leaf Gilder,Elves,Participant
+Light Up the Stage,Player damage,Participant
+Light Up the Stage,Magecraft,Participant
 Lightning Spear,Artifacts,Participant
 Lightning Spear,Equipment,Participant
 Llanowar Empath,Scry,Participant
@@ -348,22 +348,22 @@ Llanowar Empath,Elves,Participant
 Lone Rider,Lifegain,Both
 Lorescale Coatl,Counters,Participant
 Lorescale Coatl,Card draw,Payoff
-Macabre,All yards,Participant
-Macabre,Sacrifice,Participant
-Macabre,Magecraft,Participant
+Macabre Mockery,All yards,Participant
+Macabre Mockery,Sacrifice,Participant
+Macabre Mockery,Magecraft,Participant
 Makeshift Mauler,Zombies,Participant
 Makeshift Mauler,Your yard,Payoff
-Marang,Player damage,Participant
-Marang,Rogues,Participant
-Marang,Your yard,Participant
+Marang River Prowler,Player damage,Participant
+Marang River Prowler,Rogues,Participant
+Marang River Prowler,Your yard,Participant
 Marauding Blight-Priest,Clerics,Participant
 Marauding Blight-Priest,Player damage,Participant
 Marauding Blight-Priest,Lifegain,Payoff
-Marsh,Wide,Participant
-Marsh,Sacrifice,Payoff
-Martial,Magecraft,Participant
-Master,ETB,Participant
-Maverick,Artifacts,Both
+Marsh Flitter,Wide,Participant
+Marsh Flitter,Sacrifice,Payoff
+Martial Glory,Magecraft,Participant
+Master Thief,ETB,Participant
+Maverick Thopterist,Artifacts,Both
 Merfolk Windrobber,Sacrifice,Participant
 Might Beyond Reason,Counters,Participant
 Might Beyond Reason,Own yard,Payoff
@@ -372,21 +372,21 @@ Military Intelligence,Card draw,Participant
 Mind Stone,Artifacts,Participant
 Mind Stone,Card draw,Participant
 Mind Stone,Sacrifice,Participant
-Mindwrack,Your yard,Both
-Mindwrack,ETB,Participant
-Mist,ETB,Participant
-Moan,Your yard,Participant
-Moan,Zombies,Participant
-Moan,Magecraft,Participant
-Momentary,ETB,Participant
-Momentary,Magecraft,Participant
-Momentary,ETB,Payoff
-Moorland,Humans,Participant
-Moss-Pit,Counters,Both
-Moss-Pit,Your yard,Payoff
-Multani,Land plays,Both
-Multani,Your yard,Payoff
-Murasa,Land plays,Participant
+Mindwrack Demon,Your yard,Both
+Mindwrack Demon,ETB,Participant
+Mist Raven,ETB,Participant
+Moan of the Unhallowed,Your yard,Participant
+Moan of the Unhallowed,Zombies,Participant
+Moan of the Unhallowed,Magecraft,Participant
+Momentary Blink,ETB,Participant
+Momentary Blink,Magecraft,Participant
+Momentary Blink,ETB,Payoff
+Moorland Inquisitor,Humans,Participant
+Moss-Pit Skeleton,Counters,Both
+Moss-Pit Skeleton,Your yard,Payoff
+"Multani, Yavimaya's Avatar",Land plays,Both
+"Multani, Yavimaya's Avatar",Your yard,Payoff
+Murasa Rootgrazer,Land plays,Participant
 Murder,Removal,Participant
 Murder,Magecraft,Participant
 Mycosynth Wellspring,Artifacts,Participant
@@ -409,24 +409,24 @@ Necromantic Selection,Sweeper,Participant
 Necromantic Selection,Magecraft,Participant
 Needle Spires,Manland,Participant
 Nephalia Smuggler,ETB,Payoff
-Neurok,Sacrifice,Participant
+Neurok Replica,Sacrifice,Participant
 Nighthowler,All yards,Payoff
-Nightveil,Your yard,Participant
+Nightveil Sprite,Your yard,Participant
 Notorious Throng,Wide,Participant
 Notorious Throng,Magecraft,Participant
 Novice Knight,Equipment,Payoff
-Obelisk,Tribal,Participant
-Obelisk,Wide,Payoff
-Obuun,Counters,Participant
-Obuun,Elves,Participant
-Obuun,Land plays,Payoff
-Ogre,Rats,Participant
+Obelisk of Urd,Tribal,Participant
+Obelisk of Urd,Wide,Payoff
+"Obuun, Mul Daya Ancestor",Counters,Participant
+"Obuun, Mul Daya Ancestor",Elves,Participant
+"Obuun, Mul Daya Ancestor",Land plays,Payoff
+Ogre Slumlord,Rats,Participant
 "Omnath, Locus of Rage",Land plays,Payoff
 Oona's Blackguard,Counters,Both
 Oona's Blackguard,Rogues,Payoff
-Open,Card draw,Participant
-Open,Player damage,Participant
-Open,Magecraft,Participant
+Open into Wonder,Card draw,Participant
+Open into Wonder,Player damage,Participant
+Open into Wonder,Magecraft,Participant
 Opt,Card draw,Participant
 Opt,Selection,Participant
 Opt,Magecraft,Participant
@@ -439,60 +439,60 @@ Paladin's Shield,Equipment,Participant
 Phyrexia's Core,Artifacts,Participant
 Phyrexia's Core,Lifegain,Participant
 Phyrexia's Core,Sacrifice,Payoff
-Pia,Artifacts,Participant
-Pia,Sacrifice,Participant
-Pia,Wide,Participant
-Planar,Sweeper,Participant
-Planar,Magecraft,Participant
+Pia and Kiran Nalaar,Artifacts,Participant
+Pia and Kiran Nalaar,Sacrifice,Participant
+Pia and Kiran Nalaar,Wide,Participant
+Planar Outburst,Sweeper,Participant
+Planar Outburst,Magecraft,Participant
 Plundering Barbarian,Treasure,Participant
 Pore Over the Pages,Card draw,Participant
 Pore Over the Pages,Magecraft,Participant
-Price,Removal,Participant
-Price,Your yard,Participant
-Price,Magecraft,Participant
-Primal,Card draw,Participant
-Primal,Counters,Participant
+Price of Fame,Removal,Participant
+Price of Fame,Your yard,Participant
+Price of Fame,Magecraft,Participant
+Primal Empathy,Card draw,Participant
+Primal Empathy,Counters,Participant
 Prowling Felidar,Counters,Participant
 Prowling Felidar,Land plays,Payoff
 Pyrite Spellbomb,Sacrifice,Participant
 Quicken,Magecraft,Both
 Quiet Contemplation,Magecraft,Payoff
 Quiet Contemplation,Enchantments,Participant
-Rafter,Player damage,Participant
+Rafter Demon,Player damage,Participant
 Ragefire,Burn,Participant
 Ragefire,Magecraft,Participant
 Rakdos Guildgate,Is a land,Participant
-Rampaging,Land plays,Payoff
+Rampaging Baloths,Land plays,Payoff
 Rapacious Dragon,Treasure,Participant
 Rebuke,Removal,Participant
 Reckless Waif,Transform,Participant
 Reclaim,Magecraft,Participant
-Reclusive,ETB,Participant
-Reclusive,Artifacts,Payoff
-Relentless,Counters,Participant
-Relentless,Zombies,Participant
-Relentless,Your yard,Payoff
+Reclusive Artificer,ETB,Participant
+Reclusive Artificer,Artifacts,Payoff
+Relentless Skaabs,Counters,Participant
+Relentless Skaabs,Zombies,Participant
+Relentless Skaabs,Your yard,Payoff
 Retreat to Emeria,Land plays,Payoff
 Retreat to Kazandu,Counters,Participant
 Retreat to Kazandu,Lifegain,Participant
 Retreat to Kazandu,Land plays,Payoff
-Return,Card draw,Participant
-Return,Non-humans,Participant
-Return,Magecraft,Participant
-Reyav,Equipment,Payoff
+Return of the Wildspeaker,Card draw,Participant
+Return of the Wildspeaker,Non-humans,Participant
+Return of the Wildspeaker,Magecraft,Participant
+"Reyav, Master Smith",Equipment,Payoff
 Riddlesmith,Card draw,Participant
 Riddlesmith,Artifacts,Payoff
 Rimrock Knight,Knights,Participant
 Rimrock Knight,Trick,Participant
-Rise,Zombies,Participant
-Rise,Magecraft,Participant
-Rise,All yards,Payoff
-Rogue's,Player damage,Participant
-Runaway,Counters,Participant
-Runaway,Dorks,Participant
-Sandstone,Card draw,Participant
-Sandstone,ETB,Participant
-Saruli,Fixing,Participant
+Rise from the Grave,Zombies,Participant
+Rise from the Grave,Magecraft,Participant
+Rise from the Grave,All yards,Payoff
+Rogue's Passage,Player damage,Participant
+Runaway Steam-Kin,Counters,Participant
+Runaway Steam-Kin,Dorks,Participant
+Sandstone Oracle,Card draw,Participant
+Sandstone Oracle,ETB,Participant
+Saruli Caretaker,Fixing,Participant
 Satyr Wayfinder,Land plays,Participant
 Satyr Wayfinder,Your yard,Participant
 Satyr's Cunning,Your yard,Participant
@@ -500,8 +500,8 @@ Satyr's Cunning,Magecraft,Participant
 Scaretiller,Land plays,Participant
 Scaretiller,Your yard,Participant
 Scorch Spitter,Player damage,Participant
-Scourge,Devotion,Participant
-Scourge,ETB,Participant
+Scourge of Fleets,Devotion,Participant
+Scourge of Fleets,ETB,Participant
 Scrapskin Drake,Zombies,Participant
 Screeching Skaab,ETB,Participant
 Screeching Skaab,Your yard,Participant
@@ -509,71 +509,71 @@ Screeching Skaab,Zombies,Participant
 Scuttling Doom Engine,Artifacts,Participant
 Scuttling Doom Engine,Sacrifice,Payoff
 Seat of the Synod,Artifacts,Participant
-Seer's,Card draw,Participant
-Seer's,Land plays,Payoff
+Seer's Sundial,Card draw,Participant
+Seer's Sundial,Land plays,Payoff
 Selesnya Guildgate,Is a land,Participant
 Selesnya Sanctuary,Is a land,Participant
 Senate Guildmage,Card draw,Participant
 Senate Guildmage,Your yard,Participant
 Senate Guildmage,Lifegain,Participant
-Sepulchral,ETB,Participant
-Sepulchral,All yards,Payoff
-Seraph,Lifegain,Participant
-Seraph,ETB,Participant
-Seraph,Angels,Payoff
+Sepulchral Primordial,ETB,Participant
+Sepulchral Primordial,All yards,Payoff
+Seraph Sanctuary,Lifegain,Participant
+Seraph Sanctuary,ETB,Participant
+Seraph Sanctuary,Angels,Payoff
 Servant of the Scale,Counters,Participant
 Servant of the Scale,Sacrifice,Participant
-Sever,Removal,Participant
-Sever,Magecraft,Participant
+Sever the Bloodline,Removal,Participant
+Sever the Bloodline,Magecraft,Participant
 Sharktocrab,Counters,Both
-Sharpened,Artifacts,Participant
-Sharpened,Equipment,Participant
-Sharpened,Humans,Payoff
+Sharpened Pitchform,Artifacts,Participant
+Sharpened Pitchform,Equipment,Participant
+Sharpened Pitchform,Humans,Payoff
 Shivan Reef,Painland,Participant
 Shock,Burn,Participant
 Shock,Magecraft,Participant
-Shrapnel,Magecraft,Participant
-Shrapnel,Artifacts,Payoff
+Shrapnel Blast,Magecraft,Participant
+Shrapnel Blast,Artifacts,Payoff
 Simic Locket,Artifacts,Participant
 Simic Locket,Card draw,Participant
-Skatewing,Counters,Both
-Skatewing,Rogues,Participant
-Skullport,Treasure,Both
-Skullport,Artifacts,Participant
-Skullport,Card draw,Participant
-Slayer,Humans,Participant
-Slaying,Adamant,Participant
-Slaying,Magecraft,Participant
+Skatewing Spy,Counters,Both
+Skatewing Spy,Rogues,Participant
+Skullport Merchant,Treasure,Both
+Skullport Merchant,Artifacts,Participant
+Skullport Merchant,Card draw,Participant
+Slayer of the Wicked,Humans,Participant
+Slaying Fire,Adamant,Participant
+Slaying Fire,Magecraft,Participant
 Slimebind,Aura,Participant
-Slither,Player damage,Participant
-Slither,Rogues,Participant
-Smashing,Treasure,Participant
-Smashing,Magecraft,Participant
+Slither Blade,Player damage,Participant
+Slither Blade,Rogues,Participant
+Smashing Success,Treasure,Participant
+Smashing Success,Magecraft,Participant
 Sol Ring,Artifacts,Participant
-Solemn,Artifacts,Participant
+Solemn Simulacrum,Artifacts,Participant
 Solemn,Card draw,Participant
 Solemn,ETB,Participant
 Solemn,Land plays,Participant
-Soul,Your yard,Payoff
-Soul,Magecraft,Participant
+Soul Manipulation,Your yard,Payoff
+Soul Manipulation,Magecraft,Participant
 Spark Harvest,Magecraft,Participant
 Spark Harvest,Removal,Participant
 Spark Harvest,Sacrifice,Participant
-Spectral,Spirits,Participant
-Springbloom,Land plays,Participant
-Springbloom,Elves,Participant
-Stealth,Counters,Participant
-Stealth,Player damage,Participant
-Stealth,Magecraft,Participant
-Stinkdrinker,Rogues,Both
+Spectral Gateguards,Spirits,Participant
+Springbloom Druid,Land plays,Participant
+Springbloom Druid,Elves,Participant
+Stealth Mission,Counters,Participant
+Stealth Mission,Player damage,Participant
+Stealth Mission,Magecraft,Participant
+Stinkdrinker Bandit,Rogues,Both
 Stitched Drake,Zombies,Participant
 Stitched Drake,Your yard,Payoff
-Stolen,Magecraft,Participant
-Stolen,Saboteur,Payoff
-Stone Haven,Card draw,Participant
-Stone Haven,Equipment,Payoff
-Stony,Counters,Participant
-Stony,Magecraft,Participant
+Stolen Identity,Magecraft,Participant
+Stolen Identity,Saboteur,Payoff
+Stone Haven Outfitter,Card draw,Participant
+Stone Haven Outfitter,Equipment,Payoff
+Stony Strength,Counters,Participant
+Stony Strength,Magecraft,Participant
 Strength of Arms,Magecraft,Participant
 Strength of Arms,Equipment,Payoff
 Strength of Arms,Wide,Participant
@@ -583,8 +583,8 @@ Struggle // Survive,Land plays,Payoff
 Submerged Boneyard,Is a land,Participant
 Sudden Breakthrough,Treasure,Participant
 Sudden Breakthrough,Magecraft,Participant
-Summary,Magecraft,Participant
-Sun,Your yard,Payoff
+Summary Judgment,Magecraft,Participant
+Sun Titan,Your yard,Payoff
 Sunhome Guildmage,Pump,Participant
 Sure-Footed Infiltrator,Card draw,Participant
 Sure-Footed Infiltrator,Player damage,Participant
@@ -592,88 +592,88 @@ Swarm Guildmage,Lifegain,Participant
 Swarm Guildmage,Menace,Participant
 Swarm Guildmage,Elves,Participant
 Swiftwater Cliffs,Lifegain,Participant
-Sylvan,Own yard,Participant
-Sylvan,Magecraft,Participant
+Sylvan Reclamation,Own yard,Participant
+Sylvan Reclamation,Magecraft,Participant
 Syndicate Guildmage,Clerics,Participant
 Syndicate Guildmage,Humans,Participant
 Syr Konrad,Own yard,Both
-Talara's,Devotion,Participant
-Talara's,Elves,Participant
-Talara's,Warriors,Participant
-Tandem,Card draw,Participant
-Tandem,Saboteur,Participant
+Talara's Battalion,Devotion,Participant
+Talara's Battalion,Elves,Participant
+Talara's Battalion,Warriors,Participant
+Tandem Lookout,Card draw,Participant
+Tandem Lookout,Saboteur,Participant
 Temple of Epiphany,None,Participant
 Tentative Connection,Menace,Payoff
 Tentative Connection,Sacrifice,Payoff
-Tenth,None,Participant
-Terramorphic,Fixing,Participant
-Terramorphic,Sacrifice,Participant
-The Mending,Your yard,Both
-The Mending,Land plays,Participant
+Tenth District Veteran,None,Participant
+Terramorphic Expanse,Fixing,Participant
+Terramorphic Expanse,Sacrifice,Participant
+The Mending of Dominaria,Your yard,Both
+The Mending of Dominaria,Land plays,Participant
 Thermo-Alchemist,Magecraft,Participant
-Thirst,Card draw,Participant
-Thirst,Magecraft,Participant
-Thirst,Artifacts,Payoff
+Thirst for Knowledge,Card draw,Participant
+Thirst for Knowledge,Magecraft,Participant
+Thirst for Knowledge,Artifacts,Payoff
 Thopter,Artifacts,Participant
 Thraben Heretic,None,Participant
-Thrill,Card draw,Participant
-Thrill,Your yard,Participant
-Thrill,Magecraft,Participant
-Tibalt,Yard hate,Participant
-Tin,Player damage,Participant
-Together,Counters,Payoff
-Tooth,Delirium,Participant
+Thrill of Possibility,Card draw,Participant
+Thrill of Possibility,Your yard,Participant
+Thrill of Possibility,Magecraft,Participant
+"Tibalt, Rakish Instigator",Yard hate,Participant
+Tin Street Dodger,Player damage,Participant
+Together Forever,Counters,Payoff
+Tooth Collector,Delirium,Participant
 Topplegeist,Your yard,Payoff
-Torbran,Damage,Participant
-Torbran,Devotion,Participant
-Tormentor's,Artifacts,Participant
-Tower,Your yard,Participant
+"Torbran, Thane of Red Fell",Damage,Participant
+"Torbran, Thane of Red Fell",Devotion,Participant
+Tormentor's Helm,Artifacts,Participant
+Tower Geist,Your yard,Participant
 Trail of Evidence,Magecraft,Payoff
 Trail of Evidence,Card draw,Participant
 Trail of Evidence,Sacrifice,Participant
 Trail of Evidence,Artifacts,Participant
 Tranquil Cove,Lifegain,Participant
 Tranquil Thicket,Card draw,Participant
-Treetop,Manland,Participant
+Treetop Village,Manland,Participant
 Tribute to Hunger,Lifegain,Participant
 Tribute to Hunger,Magecraft,Participant
-Trinket,Artifacts,Payoff
-Triton,Player damage,Participant
-Triton,Rogues,Participant
-Trophy,Artifacts,Payoff
+Trinket Mage,Artifacts,Payoff
+Triton Shorestalker,Player damage,Participant
+Triton Shorestalker,Rogues,Participant
+Trophy Mage,Artifacts,Payoff
 Trove Warden,Land plays,Payoff
-Umara,Magecraft,Payoff
-Umara,Wizards,Payoff
-Unbreathing,Zombies,Both
-Unbreathing,Counters,Participant
-Unity,Counters,Both
-Unity,Magecraft,Participant
-Vadrok,Your yard,Payoff
-Victim,Removal,Participant
-Victim,Magecraft,Participant
-Village,ETB,Participant
-Viridian,Elves,Participant
-Voice,ETB,Participant
-Voice,Humans,Participant
-Voyager,ETB,Payoff
-Waker,Counters,Participant
+Umara Mystic,Magecraft,Payoff
+Umara Mystic,Wizards,Payoff
+Unbreathing Horde,Zombies,Both
+Unbreathing Horde,Counters,Participant
+Unity of Purpose,Counters,Both
+Unity of Purpose,Magecraft,Participant
+"Vadrok, Apex of Thunder",Your yard,Payoff
+Victim of Night,Removal,Participant
+Victim of NIght,Magecraft,Participant
+Village Bell-Ringer,ETB,Participant
+Viridian Shaman,Elves,Participant
+Voice of the Provinces,ETB,Participant
+Voice of the Provinces,Humans,Participant
+Voyager Staff,ETB,Payoff
+Waker of the Wilds,Counters,Participant
 Wall of Lost Thoughts,Their yard,Participant
 Wall of Lost Thoughts,Your yard,Participant
-Warchanter,Enchantments,Payoff
-Warchanter,Equipment,Payoff
-Welding,Magecraft,Participant
-Welding,Artifacts,Payoff
-Whirler,Artifacts,Participant
-Whirler,Player damage,Participant
-Whispersteel,Their yard,Payoff
+Warchanter Skald,Enchantments,Payoff
+Warchanter Skald,Equipment,Payoff
+Welding Sparks,Magecraft,Participant
+Welding Sparks,Artifacts,Payoff
+Whirler Rogue,Artifacts,Participant
+Whirler Rogue,Player damage,Participant
+Whispersteel Dagger,Their yard,Payoff
 Woodland Cemetery,Is a land,Participant
 Wrecking Ball,Removal,Participant
 Wrecking Beast,Counters,Participant
 Yavimaya Elder,Card draw,Participant
 Yavimaya Elder,Land plays,Participant
-Yeva,Devotion,Participant
+"Yeva, Nature's Herald",Devotion,Participant
 Zendikar's Roil,Land plays,Payoff
-Zof,Lifegain,Participant
-Zof,Player damage,Participant
-Zof,Magecraft,Participant
-Zulaport,Lifegain,Participant
+Zof Consumption,Lifegain,Participant
+Zof Consumption,Player damage,Participant
+Zof Consumption,Magecraft,Participant
+Zulaport Cutthroat,Lifegain,Participant
