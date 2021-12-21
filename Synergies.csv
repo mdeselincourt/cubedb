@@ -9,6 +9,8 @@ Acolyte of Affliction,Own yard,Payoff
 Admonition Angel,Land plays,Payoff
 Aetherize,Bounce,Participant
 Aetherize,Magecraft,Participant
+Alluring Suitor,Vampires,Participant
+Alluring Suitor,Transform,Participant
 Ancestral Blade,Artifacts,Participant
 Ancestral Blade,Equipment,Participant
 Ancestral Blade,Humans,Participant
@@ -91,9 +93,9 @@ Champion of the Flame,Auras,Payoff
 Champion of the Flame,Equipment,Payoff
 Champion of the Parish,Counters,Participant
 Champion of the Parish,Humans,Payoff
-"Chandra, Acolyte",1 power,Participant
-"Chandra, Acolyte",Magecraft,Payoff
-"Chandra, Acolyte",Own yard,Payoff
+"Chandra, Acolyte of Flame",Magecraft,Payoff
+"Chandra, Acolyte of Flame",Own yard,Payoff
+"Chandra, Acolyte of Flame",1 power,Participant
 Changeling Outcast,Player damage,Participant
 Civilized Scholar,Card draw,Participant
 Claim the Firstborn,Sacrifice,Payoff
@@ -174,8 +176,8 @@ Embodiment of Insight,Land plays,Payoff
 Emeria Angel,Land plays,Payoff
 Emeria Shepherd,Land plays,Payoff
 Emeria Shepherd,Your yard,Payoff
-Endless,All yards,Participant
-Endless,All yards,Payoff
+Endless Obedience,All yards,Participant
+Endless Obedience,All yards,Payoff
 End-Raze Forerunners,ETB,Participant
 Enigma Thief,Rogues,Both
 Enigma Thief,ETB,Participant
@@ -197,7 +199,7 @@ Faerie Mechanist,Artifacts,Payoff
 Faerie Vandal,Counters,Participant
 Faerie Vandal,Rogues,Participant
 Faerie Vandal,Card draw,Payoff
-Faithless,Card draw,Participant
+Faithless Looting,Card draw,Participant
 Faithless Looting,Your yard,Participant
 Faithless Looting,Magecraft,Participant
 Falkenrath Noble,Lifegain,Participant
@@ -550,10 +552,10 @@ Slither Blade,Rogues,Participant
 Smashing Success,Treasure,Participant
 Smashing Success,Magecraft,Participant
 Sol Ring,Artifacts,Participant
+Solemn Simulacrum,Card draw,Participant
+Solemn Simulacrum,ETB,Participant
+Solemn Simulacrum,Land plays,Participant
 Solemn Simulacrum,Artifacts,Participant
-Solemn,Card draw,Participant
-Solemn,ETB,Participant
-Solemn,Land plays,Participant
 Soul Manipulation,Your yard,Payoff
 Soul Manipulation,Magecraft,Participant
 Spark Harvest,Magecraft,Participant
@@ -596,7 +598,7 @@ Sylvan Reclamation,Own yard,Participant
 Sylvan Reclamation,Magecraft,Participant
 Syndicate Guildmage,Clerics,Participant
 Syndicate Guildmage,Humans,Participant
-Syr Konrad,Own yard,Both
+"Syr Konrad, the Grim",Own yard,Both
 Talara's Battalion,Devotion,Participant
 Talara's Battalion,Elves,Participant
 Talara's Battalion,Warriors,Participant
@@ -614,7 +616,6 @@ Thermo-Alchemist,Magecraft,Participant
 Thirst for Knowledge,Card draw,Participant
 Thirst for Knowledge,Magecraft,Participant
 Thirst for Knowledge,Artifacts,Payoff
-Thopter,Artifacts,Participant
 Thraben Heretic,None,Participant
 Thrill of Possibility,Card draw,Participant
 Thrill of Possibility,Your yard,Participant
@@ -677,3 +678,10 @@ Zof Consumption,Lifegain,Participant
 Zof Consumption,Player damage,Participant
 Zof Consumption,Magecraft,Participant
 Zulaport Cutthroat,Lifegain,Participant
+"Anje, Maid of Dishonor",tbc,Both
+Breeding Pool,tbc,Both
+Corpse Churn,tbc,Both
+Golgari Raiders,tbc,Both
+Hallowed Fountain,tbc,Both
+Overgrown Tomb,tbc,Both
+Vigilante Justice,tbc,Both
