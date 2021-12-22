@@ -103,7 +103,7 @@ Clamor Shaman,Counters,Participant
 Clan Guildmage,Humans,Participant
 Cleric of Life's Bond,Clerics,Both
 Cleric of Life's Bond,Lifegain,Both
-Cleric of Life's Bond,Humans,Participant
+Cleric of Life's Bond,Vampires,Participant
 Cleric of Life's Bond,Counters,Participant
 Cobbled Wings,Artifacts,Participant
 Cobbled Wings,Equipment,Participant
@@ -148,6 +148,7 @@ Drill Bit,Hand attack,Participant
 Drill Bit,Magecraft,Participant
 Drill Bit,Player damage,Payoff
 Driver of the Dead,Sacrifice,Participant
+Driver of the Dead,Vampires,Participant
 Driver of the Dead,Your yard,Payoff
 "Dwynen, Gilt-Leaf Daen",Elves,Both
 "Dwynen, Gilt-Leaf Daen",Legendary,Participant
@@ -204,6 +205,7 @@ Faithless Looting,Your yard,Participant
 Faithless Looting,Magecraft,Participant
 Falkenrath Noble,Lifegain,Participant
 Falkenrath Noble,Player damage,Participant
+Falkenrath Noble,Vampire,Participant
 Far Wanderings,Land plays,Participant
 Far Wanderings,Your yard,Participant
 Far Wanderings,Magecraft,Participant
@@ -361,6 +363,7 @@ Marang River Prowler,Your yard,Participant
 Marauding Blight-Priest,Clerics,Participant
 Marauding Blight-Priest,Player damage,Participant
 Marauding Blight-Priest,Lifegain,Payoff
+Marauding Blight-Priest,Vampires,Participant
 Marsh Flitter,Wide,Participant
 Marsh Flitter,Sacrifice,Payoff
 Martial Glory,Magecraft,Participant
@@ -678,10 +681,21 @@ Zof Consumption,Lifegain,Participant
 Zof Consumption,Player damage,Participant
 Zof Consumption,Magecraft,Participant
 Zulaport Cutthroat,Lifegain,Participant
-"Anje, Maid of Dishonor",tbc,Both
-Breeding Pool,tbc,Both
-Corpse Churn,tbc,Both
-Golgari Raiders,tbc,Both
-Hallowed Fountain,tbc,Both
-Overgrown Tomb,tbc,Both
-Vigilante Justice,tbc,Both
+"Anje, Maid of Dishonor",Vampires,Both
+"Anje, Maid of Dishonor",Card draw,Participant
+"Anje, Maid of Dishonor",Artifacts,Participant
+"Anje, Maid of Dishonor",Lifegain,Participant
+"Anje, Maid of Dishonor",ETB,Participant
+"Anje, Maid of Dishonor",Sacrifice,Participant
+"Anje, Maid of Dishonor",Your Yard,Participant
+Corpse Churn,Your yard,Both
+Corpse Churn,Magecraft,Participant
+Golgari Raiders,Elves,Participant
+Golgari Raiders,Warriors,Participant
+Golgari Raiders,Counters,Participant
+Golgari Raiders,Your yard,Payoff
+Vigilante Justice,Enchantments,Participant
+Vigilante Justice,Humans,Payoff
+Heir of Falkenrath,Vampires,Participant
+
+
