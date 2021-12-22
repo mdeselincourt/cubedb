@@ -31,6 +31,9 @@ def synergyScore(synergyTuple):
 # Sort (for ease of log-browsing)
 synergies.sort(key=synergyScore,reverse=True)
 
+for s in synergies:
+	print(s)
+	
 unfoundPairs = colourPairs
 
 while len(unfoundPairs) > 0:
