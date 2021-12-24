@@ -16,7 +16,7 @@ cursor2 = connection.cursor()
 
 colours = ["W","U","B","R","G"]
 shardsAndWedges = list(itertools.combinations(colours, r=3))
-print(shardsAndWedges)
+# print(shardsAndWedges)
 colourPairs = list(itertools.combinations(colours, r=2))
 synergies = []
 
@@ -45,12 +45,53 @@ for c1, c2, c3 in shardsAndWedges:
 def synergyScore(synergyTuple):
     return synergyTuple[4]
 
-synergies.sort(key=synergyScore,reverse=False)
+synergies.sort(key=synergyScore,reverse=True)
 
 print("All synergies:")
 
-for s in synergies:
-    print(s)
+for syn in synergies:
+    print("Synergy",syn)
+    synname = syn[1]
+    (p1,p2)=tuple(syn[0])
+    (x1,x2,x3)=invertColourTuple((p1,p2))
+    # Get summaries of the synergy member groups
+    query = '''SELECT 
+            --Synergies.Card, 
+            Colour, 
+            RolePlayed,
+            COUNT(Synergies.Card) as cards
+        FROM Synergies
+        INNER JOIN Cards on Cards.Card=Synergies.Card
+        WHERE Synergies.Synergy='{synname}'
+        --AND (Cards.{p1} = 1 OR Cards.{p2} = 1) 
+        AND Cards.{x1} IS NULL AND Cards.{x2} IS NULL AND Cards.{x3} IS NULL
+        AND Cards.Copies > 0
+        GROUP BY Colour, RolePlayed
+        ORDER BY Colour       
+        '''.format(synname=synname,p1=p1,p2=p2,x1=x1,x2=x2,x3=x3)
+
+    # List the cards in the member groups
+    for resultTuple in cursor.execute(query):
+        print(" Synergy member group is ",resultTuple)
+        groupColours = resultTuple[0]
+        groupRole = resultTuple[1]
+        
+        query2 = '''SELECT 
+            Synergies.Card, 
+            Colour
+        FROM Synergies
+        INNER JOIN Cards on Cards.Card=Synergies.Card
+        WHERE Synergies.Synergy='{synname}'
+        AND Cards.Colour = '{groupColours}'
+        AND Synergies.RolePlayed = '{groupRole}'
+        --AND (Cards.{p1} = 1 OR Cards.{p2} = 1) 
+        AND Cards.{x1} IS NULL AND Cards.{x2} IS NULL AND Cards.{x3} IS NULL
+        AND Cards.Copies > 0
+        '''.format(synname=synname,groupColours=groupColours,groupRole=groupRole,p1=p1,p2=p2,x1=x1,x2=x2,x3=x3)
+        for card in cursor2.execute(query2): # Execute with cursor2 to not lose place in outer loop
+            print("  ",card)
+
+sys.exit()
 
 # Sort (for ease of log-browsing)
 synergies.sort(key=synergyScore,reverse=True)
