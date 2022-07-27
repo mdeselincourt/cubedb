@@ -2,6 +2,20 @@ import sqlite3
 import itertools
 import sys # Useful to have for sys.exit()
 
+## DOCUMENTATION
+
+## 2022-07-23 I think at the moment this
+##  calculates synergies for each 2-colour identity (pair plus colourless)
+##  then
+##  describes them in full by for each synergy e.g. ("lifegain")
+##   for each member group (e.g. "white", "payoffs")
+##    for each card
+## output
+##
+## So the result is a huge list of cards and what role they play
+##  the same card will appear as many times as it has roles
+
+
 ## Utility functions
 
 def invertColourTuple(colourTuple):
