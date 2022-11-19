@@ -1,6 +1,6 @@
 import sqlite3
 import itertools
-import sys # Useful to have for sys.exit()
+import sys # for sys.exit() and sys.argv
 
 ## DOCUMENTATION
 
@@ -27,7 +27,10 @@ def invertColourTuple(colourTuple):
 
 ## DB connection
 
-connection = sqlite3.connect('cubedb.sqlite')
+try:
+    connection = sqlite3.connect(sys.argv[1])
+except:
+    print("Couldn't open database connection")
 cursor = connection.cursor()
 cursor2 = connection.cursor()
 
